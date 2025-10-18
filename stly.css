@@ -1,0 +1,21 @@
+*{
+    color: yellow;
+    background-color: antiquewhite;
+}
+h1,p{
+    color: blue;
+    text-align: center;
+}
+
+.name{
+    color: chocolate;
+    text-align:center;
+}
+.first{
+    text-align: right;
+    color: gray;
+}
+#unique,p{
+    color: chocolate;
+    text-align:center;
+}

@@ -1,0 +1,36 @@
+*{/*Universal Selector*/
+    color: yellow;
+    background-color: antiquewhite;
+}
+h1{/*Element Selector*/
+    color: blue;
+}
+p{
+    background-color: aqua;
+}
+h1,p{
+    color: chartreuse;
+    text-align: right;
+}
+.name{/*class selector*/
+    color: chocolate;
+    text-align:center;
+}
+.name{
+    color: blue;
+}
+.first{
+    color: crimson;
+}
+#_unique,p{
+    color: red;
+    text-align:center;
+    text-align: end;
+    text-align: justify;
+    text-align: right;
+    text-align: left;
+    text-align: inherit;
+    text-align: start;
+    text-align: initial;
+    text-align: unset;   
+}/* ID Selector -> It has more priority than others*/
