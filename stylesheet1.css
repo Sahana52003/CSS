@@ -1,0 +1,18 @@
+#body{
+   background-color: antiquewhite;
+}
+#heda{
+border-style: double;
+    border-color: rgb(65, 228, 100);
+    border-radius: 20px;
+    text-align: center;
+    border: 6px solid yellowgreen 15px;
+}
+
+#par{
+    line-height: 25px;
+    text-decoration: dotted purple underline;
+    text-decoration-style:solid;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

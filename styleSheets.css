@@ -1,0 +1,49 @@
+#heading{
+    border-radius: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    text-transform:capitalize;
+    text-transform: lowercase;
+    text-transform: unset;
+    
+}
+#paragraph{
+    line-height: 12px;
+    text-decoration: dotted blue underline;
+    text-decoration-style:double;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#parr{
+    border-radius: 50%;
+    background-color: aqua;
+    text-decoration:none;
+    font-weight: bolder;
+    font-weight: 300;
+    font-size: larger;
+}
+/* Box Model */
+#head{
+    text-align: right;
+    height: 150px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style: double;
+    border-color: purple;
+    border-radius: 20px;
+    border: 6px solid yellowgreen 15px;
+    padding: 12px;
+    padding-top:11px ;
+    padding-left: 9px;
+    padding-right: 23px;
+    padding-bottom: 17px;
+    padding: 23px 34px 12px 45px;
+}
+#button{
+    width:100px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: black;
+}

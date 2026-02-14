@@ -1,0 +1,25 @@
+#image{
+    border-radius: 12px;
+    width: 250px;
+    border-color:green;
+}
+#head{
+    text-align: center;
+    text-decoration: line-through burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#para{
+    line-height: 25px;
+    text-decoration: dotted purple underline;
+    text-decoration-style:solid;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.web{
+    background-color: white;
+    width: 350px;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: right;
+    text-align: center;
+}

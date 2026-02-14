@@ -1,0 +1,97 @@
+#heading{
+    border-radius: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    text-transform:capitalize;
+    text-transform: lowercase;
+    text-transform: unset;
+    
+}
+#paragraph{
+    line-height: 25px;
+    text-decoration: dotted green underline;
+    text-decoration-style:wavy;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* Box Model */
+#head{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style: double;
+    border-color: purple;
+    border-radius: 90px;
+}
+#button{
+    border-radius: 30px;
+    width: 150px;
+    background-color: lightblue;
+}
+#head1{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style: double;
+    border-color: pink;
+    border-radius: 30px;
+}
+#head2{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style: double;
+    border-color: blue;
+    border-radius: 1px;
+}
+#head3{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-color: darkgreen;
+    border-radius: 45px;
+}
+#head4{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style: hidden;
+    border-color: brown;
+    border-radius: 32px;
+}
+#head5{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: groove;
+    border-style:  solid;
+    border-color: purple;
+    border-radius: 67px;
+}
+#head6{
+    text-align:center;
+    height: 150px;
+    line-height: 126px;
+    width: 150px;
+    border-width: 4px;
+    border-style: dotted;
+    border-color: green;
+    border-radius: 56px;
+}
